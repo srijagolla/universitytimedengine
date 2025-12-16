@@ -1,0 +1,5 @@
+# type,id,text,maxMarks,negativeMarks,topic,explanation,extra
+MCQ,1,"What is 2+2?",4,1,Math,"Basic addition",A
+MCQ,2,"Which language runs on JVM?",5,1,CS,"Java is primary",A
+SA,3,"Explain polymorphism in one line.",6,1,OOP,"Key concept",polymorphism|objects|overriding
+SA,4,"What is encapsulation?",4,1,OOP,"Data hiding",encapsulation|data hiding|private
